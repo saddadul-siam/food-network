@@ -6,6 +6,16 @@ body{
 }
 h1{
     font-size: 50px;
+    color: rgb(124, 115, 115);
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    color: rgb(59, 57, 57);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
 }
 #topbar{
     height: 800px;
@@ -79,14 +89,11 @@ h1{
     padding-bottom: 40px;
 }
 .about-me h3{
-    ont-weight: 100px;
     color: rgb(59, 57, 57);
     font-weight: 400;
     line-height: 40px;
 }
-.about-me h1{
-    color: rgb(124, 115, 115);
-}
+
 .Contact-me-button{
     text-decoration: none;
     background-image: linear-gradient(orange, rgb(235, 48, 15));
@@ -96,5 +103,69 @@ h1{
     color: white;
     font-weight: 700;
     font-size: 25px;
+
+}
+.my-recipies{
+    text-align: center;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.recipies-item-1{
+    width: 40%;
+    text-align:left;
+    box-shadow: 15px 15px 40px grey;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 0%;
+    padding-right: 3%;
+}
+    
+.recipies-item-2{
+    width: 40%;
+    text-align:left;
+    box-shadow: 15px 15px 40px gray;
+    border-radius: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-right: 3%;
+}
+.recipies-item-3{
+    width: 40%;
+    text-align:left;
+    box-shadow: 15px 15px 40px gray;
+    border-radius: 30px;
+    margin-left: 0%;
+    margin-right: 5%;
+    padding-right: 3%;
+}
+.recipies-img-1{
+    width:100%;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.recipies-img-2{
+    width:100%;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.recipies-img-3{
+    width:100%;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+.text-align{
+    text-align: left;
+    padding-left: 5%;
 
 }
