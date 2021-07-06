@@ -6,10 +6,11 @@ body{
 }
 h1{
     font-size: 50px;
-    color: rgb(124, 115, 115);
+    color:#575757;
 }
 h2{
     font-size: 30px;
+    color: rgb(85, 78, 78);
 }
 h3{
     color: rgb(59, 57, 57);
@@ -119,6 +120,7 @@ h3{
     margin-left: 5%;
     margin-right: 0%;
     padding-right: 3%;
+    padding-bottom: 3%;
 }
     
 .recipies-item-2{
@@ -129,6 +131,7 @@ h3{
     margin-left: 3%;
     margin-right: 3%;
     padding-right: 3%;
+    padding-bottom: 3%;
 }
 .recipies-item-3{
     width: 40%;
@@ -138,6 +141,7 @@ h3{
     margin-left: 0%;
     margin-right: 5%;
     padding-right: 3%;
+    padding-bottom: 3%;
 }
 .recipies-img-1{
     width:100%;
@@ -168,4 +172,34 @@ h3{
     text-align: left;
     padding-left: 5%;
 
+}
+.followers{
+    box-shadow: 15px 15px 40px gray;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 5%;
+    padding: 80px;
+    margin-right: 5%;
+    border-radius: 30px;
+}
+.youtube{
+    width: 40%;
+    text-align: center;
+}
+.instagram{
+    width: 40%;
+    text-align: center;
+}
+.dribbblwe{
+    width: 40%;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+    background-color:#0B0D17;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    
 }
