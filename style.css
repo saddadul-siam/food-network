@@ -38,7 +38,7 @@ h3{
 }
 .first-text h1 {
     font-size: 80px;
-    color: rgb(116, 104, 104);
+    color:#575757
 
 }
 .first-text h3 {
@@ -67,9 +67,7 @@ h3{
 
 }
 .about-images{
-    width: 65%;
-    
-
+    width: 51%;
 }
 .about-images img{
     width:100%;
